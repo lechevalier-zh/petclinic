@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # petclinic
 petclinic
 =======
